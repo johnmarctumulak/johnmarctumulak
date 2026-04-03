@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding GIF">
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmarctumulak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+</p>
 
 <br>
 
@@ -27,41 +27,41 @@
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,php,laravel,bootstrap,jquery,mysql,git,docker,nginx,cloudflare,arduino,postman" alt="My Skills" />
   </a>
-  <br><br>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-</div>
+</p>
 
 <br>
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=johnmarctumulak&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnmarctumulak&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmarctumulak&show_icons=true&theme=radical)](https://github.com/johnmarctumulak)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarctumulak&layout=compact&theme=radical)](https://github.com/johnmarctumulak)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=johnmarctumulak&theme=radical" alt="GitHub Streak" />
+</p>
 
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johnmarctumulak&theme=radical)](https://github.com/johnmarctumulak)
-
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=johnmarctumulak&theme=radical&row=1&column=7)](https://github.com/johnmarctumulak)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnmarctumulak&theme=radical&row=1&column=7" alt="Trophies" />
+</p>
 
 <br>
 
 ### 🤝 Connect with me
 
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/johnmarc.tumulak.24)
-
-</div>
+<p align="center">
+  <a href="https://fb.com/johnmarc.tumulak.24" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
