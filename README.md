@@ -45,15 +45,10 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=johnmarctumulak&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnmarctumulak&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=johnmarctumulak&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnmarctumulak&theme=radical&row=1&column=7" alt="Trophies" />
 </p>
 
 <br>
