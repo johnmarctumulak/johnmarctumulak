@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[[https://skillicons.dev/icons?i=postgresql,FastAPI, lua,c,cpp,cs,java,python,rust,go,vscode,js,html,css,php,laravel,bootstrap,jquery,mysql,git,docker,nginx,cloudflare,arduino,postman](https://skillicons.dev/icons?i=postgresql,discord,lua,c,cpp,cs,java,python,rust,go,vscode,js,html,css,php,laravel,bootstrap,jquery,mysql,git,docker,nginx,cloudflare,arduino,postman,dotnet,fastapi,flask,ubuntu,visualstudio)](https://skillicons.dev/icons?i=postgresql,discord,lua,c,cpp,cs,java,python,rust,go,vscode,js,html,css,php,laravel,bootstrap,jquery,mysql,git,docker,nginx,cloudflare,arduino,postman,dotnet,fastapi,flask,ubuntu,visualstudio)" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=postgresql,discord,lua,c,cpp,cs,java,python,rust,go,vscode,js,html,css,php,laravel,bootstrap,jquery,mysql,git,docker,nginx,cloudflare,arduino,postman,dotnet,fastapi,flask,ubuntu,visualstudio" alt="My Skills" />
   </a>
 </p>
 
